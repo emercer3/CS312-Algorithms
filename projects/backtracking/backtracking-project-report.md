@@ -1,5 +1,5 @@
 # Project Report - Backtracking
-__This is late because me and other TAs thought there was a run time issue and they said it was fine to fix and return in with no penalty.__
+__Fixing the discusion for stretch 2__
 ## Baseline
 
 ### Design Experience
@@ -390,15 +390,24 @@ Cut Tree is a file/function that will cut out paths from the tree and caculate a
 
 ### Plots 
 
-The following plots show the max queue size, number nodes expanded, number of nodes pruned, and coverage as specified. Each of these shows information that tells us a lot about the algorithm. The queue size doesn't show a ton of info, really that it gets the largest at the very beginning. The number of nodes expanded shows us how many paths we actually explored, but when pared with how many were pruned we can see that more were pruned than expanded which tells us that setting a pre max helps a ton. lastly the fraction of leaves covered helps us know how much we actually covered of the tree and that there probably might be a better solution if we didn't cover much.
+The following plots show the max queue size, number nodes expanded, number of nodes pruned, and coverage as specified. Each of these shows information that tells us a lot about the algorithm. 
+ The number of nodes expanded shows us how many paths we actually explored, but when pared with how many were pruned we can see that more were pruned than expanded which tells us that setting a pre max helps a ton. lastly the fraction of leaves covered helps us know how much we actually covered of the tree and that there probably might be a better solution if we didn't cover much.
 
 ![backtracking_bssf_queue_size.png](backtracking_bssf_queue_size.png)
 
+The queue size doesn't show a ton of info, really that it gets the largest at the very beginning of the graph. It also kind of helps tell us how deep we had to go into the graph to start seeings stuff. we could also approximate that the graph had a depth of 57.
+
 ![backtracking_bssf_nodes_expanded](backtracking_bssf_nodes_expanded.png)
+
+The number of nodes expanded shows us how many paths we actually explored. This gives us a sense of how many things we are checking. For our particular graph we are seeing that we explored 300,000 new paths.
 
 ![backtracking_bssf_nodes_pruned.png](backtracking_bssf_nodes_pruned.png)
 
+The number of nodes pruned shows us how well our BSSF algorithm is working. It also tells us that our graph had a lot of paths that were not worth searching because the cost was high. Most paths were terible for this graph.
+
 ![backtracking_bssf_coverage.png](backtracking_bssf_coverage.png)
+
+lastly the fraction of leaves covered helps us know how much we actually covered of the tree and that there probably might be a better solution if we didn't cover much. For our graph we managed to check everything twice until timed out, which means we found the best solutions and then double checked. This is just because of how I implemented the stack poorly by putting all starting nodes on there to try.
 
 ## Project Review
 
