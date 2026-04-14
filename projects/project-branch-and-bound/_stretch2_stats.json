@@ -1,0 +1,366 @@
+[
+    [
+        {
+            "score": 2.8550000000000004,
+            "time": 4.483927249908447,
+            "max_queue_size": 40,
+            "n_nodes_expanded": 6905,
+            "n_nodes_pruned": 44517,
+            "n_leaves_covered": 69291124438,
+            "fraction_leaves_covered": 0.7948208606089311
+        },
+        {
+            "score": 3.7269999999999994,
+            "time": 0.7166531085968018,
+            "max_queue_size": 38,
+            "n_nodes_expanded": 1166,
+            "n_nodes_pruned": 7592,
+            "n_leaves_covered": 30572549155,
+            "fraction_leaves_covered": 0.35068993363109185
+        },
+        {
+            "score": 4.023999999999999,
+            "time": 1.1737239360809326,
+            "max_queue_size": 34,
+            "n_nodes_expanded": 1827,
+            "n_nodes_pruned": 11466,
+            "n_leaves_covered": 34919405965,
+            "fraction_leaves_covered": 0.40055162224836083
+        },
+        {
+            "score": 3.363,
+            "time": 3.0356640815734863,
+            "max_queue_size": 36,
+            "n_nodes_expanded": 5160,
+            "n_nodes_pruned": 33008,
+            "n_leaves_covered": 47180849744,
+            "fraction_leaves_covered": 0.5411995244981356
+        },
+        {
+            "score": 4.011,
+            "time": 1.6421780586242676,
+            "max_queue_size": 38,
+            "n_nodes_expanded": 2762,
+            "n_nodes_pruned": 18005,
+            "n_leaves_covered": 62252048118,
+            "fraction_leaves_covered": 0.7140774068992075
+        },
+        {
+            "score": 3.664999999999999,
+            "time": 5.14984130859375e-05,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 0,
+            "n_nodes_pruned": 0,
+            "n_leaves_covered": 0,
+            "fraction_leaves_covered": 0
+        },
+        {
+            "score": 3.7850000000000006,
+            "time": 0.6346385478973389,
+            "max_queue_size": 30,
+            "n_nodes_expanded": 921,
+            "n_nodes_pruned": 6437,
+            "n_leaves_covered": 53604622795,
+            "fraction_leaves_covered": 0.6148849909437087
+        },
+        {
+            "score": 3.6909999999999994,
+            "time": 0.8882431983947754,
+            "max_queue_size": 36,
+            "n_nodes_expanded": 1512,
+            "n_nodes_pruned": 8960,
+            "n_leaves_covered": 38653957307,
+            "fraction_leaves_covered": 0.443389710614103
+        },
+        {
+            "score": 3.729,
+            "time": 0.7055983543395996,
+            "max_queue_size": 29,
+            "n_nodes_expanded": 983,
+            "n_nodes_pruned": 7302,
+            "n_leaves_covered": 83664870358,
+            "fraction_leaves_covered": 0.9596984433436566
+        },
+        {
+            "score": 3.9380000000000006,
+            "time": 2.9556939601898193,
+            "max_queue_size": 36,
+            "n_nodes_expanded": 4661,
+            "n_nodes_pruned": 30749,
+            "n_leaves_covered": 78784835725,
+            "fraction_leaves_covered": 0.9037208075604033
+        },
+        {
+            "score": 3.6189999999999993,
+            "time": 0.2657129764556885,
+            "max_queue_size": 38,
+            "n_nodes_expanded": 383,
+            "n_nodes_pruned": 2645,
+            "n_leaves_covered": 28068042093,
+            "fraction_leaves_covered": 0.32196137027517235
+        },
+        {
+            "score": 3.593,
+            "time": 0.7375204563140869,
+            "max_queue_size": 34,
+            "n_nodes_expanded": 1121,
+            "n_nodes_pruned": 7561,
+            "n_leaves_covered": 74723518028,
+            "fraction_leaves_covered": 0.8571344654665587
+        },
+        {
+            "score": 4.176,
+            "time": 1.6434214115142822,
+            "max_queue_size": 38,
+            "n_nodes_expanded": 3025,
+            "n_nodes_pruned": 16833,
+            "n_leaves_covered": 48379160874,
+            "fraction_leaves_covered": 0.5549450466172936
+        },
+        {
+            "score": 3.6550000000000007,
+            "time": 0.29295802116394043,
+            "max_queue_size": 34,
+            "n_nodes_expanded": 428,
+            "n_nodes_pruned": 3061,
+            "n_leaves_covered": 77953513674,
+            "fraction_leaves_covered": 0.8941849238035994
+        },
+        {
+            "score": 3.797999999999999,
+            "time": 3.615647315979004,
+            "max_queue_size": 36,
+            "n_nodes_expanded": 5513,
+            "n_nodes_pruned": 35701,
+            "n_leaves_covered": 83545489310,
+            "fraction_leaves_covered": 0.9583290537128583
+        },
+        {
+            "score": 3.6590000000000003,
+            "time": 1.1736466884613037,
+            "max_queue_size": 36,
+            "n_nodes_expanded": 1811,
+            "n_nodes_pruned": 11697,
+            "n_leaves_covered": 74225652473,
+            "fraction_leaves_covered": 0.8514235763432813
+        },
+        {
+            "score": 3.934,
+            "time": 2.2274439334869385,
+            "max_queue_size": 36,
+            "n_nodes_expanded": 3794,
+            "n_nodes_pruned": 22806,
+            "n_leaves_covered": 23807375992,
+            "fraction_leaves_covered": 0.27308835335373033
+        },
+        {
+            "score": 4.056,
+            "time": 0.7962486743927002,
+            "max_queue_size": 32,
+            "n_nodes_expanded": 1292,
+            "n_nodes_pruned": 8382,
+            "n_leaves_covered": 60617566791,
+            "fraction_leaves_covered": 0.6953286874129508
+        },
+        {
+            "score": 4.4670000000000005,
+            "time": 4.972848892211914,
+            "max_queue_size": 54,
+            "n_nodes_expanded": 9089,
+            "n_nodes_pruned": 49394,
+            "n_leaves_covered": 8958766308,
+            "fraction_leaves_covered": 0.10276372918858039
+        },
+        {
+            "score": 4.138999999999999,
+            "time": 1.4237666130065918,
+            "max_queue_size": 38,
+            "n_nodes_expanded": 2309,
+            "n_nodes_pruned": 14775,
+            "n_leaves_covered": 60698922351,
+            "fraction_leaves_covered": 0.6962618963446716
+        }
+    ],
+    [
+        {
+            "score": 2.8550000000000004,
+            "time": 0.16853952407836914,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 372,
+            "n_nodes_pruned": 1681,
+            "n_leaves_covered": 6793748638,
+            "fraction_leaves_covered": 0.07792936228142082
+        },
+        {
+            "score": 3.7269999999999994,
+            "time": 0.8222379684448242,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 1285,
+            "n_nodes_pruned": 8724,
+            "n_leaves_covered": 35395269830,
+            "fraction_leaves_covered": 0.40601013558292826
+        },
+        {
+            "score": 4.023999999999999,
+            "time": 0.01292109489440918,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 31,
+            "n_nodes_pruned": 48,
+            "n_leaves_covered": 26392751611,
+            "fraction_leaves_covered": 0.30274453935385237
+        },
+        {
+            "score": 3.363,
+            "time": 0.012918710708618164,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 33,
+            "n_nodes_pruned": 59,
+            "n_leaves_covered": 7792234412,
+            "fraction_leaves_covered": 0.08938273857792707
+        },
+        {
+            "score": 4.011,
+            "time": 1.7604002952575684,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 3185,
+            "n_nodes_pruned": 19118,
+            "n_leaves_covered": 43567351191,
+            "fraction_leaves_covered": 0.4997500018789081
+        },
+        {
+            "score": 3.664999999999999,
+            "time": 7.462501525878906e-05,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 0,
+            "n_nodes_pruned": 0,
+            "n_leaves_covered": 0,
+            "fraction_leaves_covered": 0
+        },
+        {
+            "score": 3.7850000000000006,
+            "time": 0.10691165924072266,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 187,
+            "n_nodes_pruned": 1040,
+            "n_leaves_covered": 32289052315,
+            "fraction_leaves_covered": 0.37037950469715103
+        },
+        {
+            "score": 3.6909999999999994,
+            "time": 0.011642217636108398,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 26,
+            "n_nodes_pruned": 33,
+            "n_leaves_covered": 25866898856,
+            "fraction_leaves_covered": 0.29671261617938205
+        },
+        {
+            "score": 3.729,
+            "time": 0.5627219676971436,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 786,
+            "n_nodes_pruned": 5786,
+            "n_leaves_covered": 46215654358,
+            "fraction_leaves_covered": 0.530128013773227
+        },
+        {
+            "score": 3.9380000000000006,
+            "time": 0.9767062664031982,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 1805,
+            "n_nodes_pruned": 10429,
+            "n_leaves_covered": 26496688166,
+            "fraction_leaves_covered": 0.3039367691345618
+        },
+        {
+            "score": 3.6189999999999993,
+            "time": 0.13427972793579102,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 194,
+            "n_nodes_pruned": 1313,
+            "n_leaves_covered": 14674463877,
+            "fraction_leaves_covered": 0.16832704191614162
+        },
+        {
+            "score": 3.593,
+            "time": 0.3144571781158447,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 574,
+            "n_nodes_pruned": 3168,
+            "n_leaves_covered": 20948330036,
+            "fraction_leaves_covered": 0.24029296454023635
+        },
+        {
+            "score": 4.176,
+            "time": 2.002894401550293,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 4502,
+            "n_nodes_pruned": 20216,
+            "n_leaves_covered": 36883123189,
+            "fraction_leaves_covered": 0.4230769229507449
+        },
+        {
+            "score": 3.6550000000000007,
+            "time": 0.009786128997802734,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 15,
+            "n_nodes_pruned": 27,
+            "n_leaves_covered": 7277005262,
+            "fraction_leaves_covered": 0.08347267607374254
+        },
+        {
+            "score": 3.797999999999999,
+            "time": 0.9458918571472168,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 1594,
+            "n_nodes_pruned": 9375,
+            "n_leaves_covered": 33147258356,
+            "fraction_leaves_covered": 0.38022376786389683
+        },
+        {
+            "score": 3.6590000000000003,
+            "time": 1.1058385372161865,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 1770,
+            "n_nodes_pruned": 10919,
+            "n_leaves_covered": 49311400311,
+            "fraction_leaves_covered": 0.5656385280352915
+        },
+        {
+            "score": 3.934,
+            "time": 1.2462613582611084,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 2491,
+            "n_nodes_pruned": 12969,
+            "n_leaves_covered": 8194090312,
+            "fraction_leaves_covered": 0.09399232537377379
+        },
+        {
+            "score": 4.056,
+            "time": 0.04378652572631836,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 92,
+            "n_nodes_pruned": 390,
+            "n_leaves_covered": 39051199316,
+            "fraction_leaves_covered": 0.44794637264007303
+        },
+        {
+            "score": 4.689,
+            "time": 1.4122967720031738,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 3371,
+            "n_nodes_pruned": 14035,
+            "n_leaves_covered": 571311041,
+            "fraction_leaves_covered": 0.006553363608485136
+        },
+        {
+            "score": 4.138999999999999,
+            "time": 0.32755136489868164,
+            "max_queue_size": 0,
+            "n_nodes_expanded": 807,
+            "n_nodes_pruned": 3220,
+            "n_leaves_covered": 26042710882,
+            "fraction_leaves_covered": 0.2987293112026495
+        }
+    ]
+]
